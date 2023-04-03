@@ -7,7 +7,7 @@ This is a Python project that helps you find common free times between multiple 
 To use this project, you'll need to have Python installed on your computer. Once you've cloned the repository to your local machine, you can run the main.py file from the command line:
 
 ```
-#python main.py example\schedule_0.ics example\schedule_1.ics 60 --startTime "2023-04-03 08:00:00" --endTime "2023-04-03 16:00:00"
+$ main.py example\schedule_0.ics example\schedule_1.ics 60 --startTime "2023-04-03 08:00:00" --endTime "2023-04-03 16:00:00"
 ```
 
 ### Help
